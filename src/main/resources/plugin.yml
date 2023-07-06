@@ -1,0 +1,14 @@
+name: MinecraftUtilites
+version: 4.0
+author: ExcuseMeImJack
+main: com.excusemeimjack.minecraftutilsplugin.MinecraftUtilsPlugin
+description: A Minecraft plugin that provides some utilites to help the game be better!
+
+commands:
+  hide:
+    description: Let's the player hide their name or unhide their name
+  trade:
+    description: trades 1 diamond for 1 xp level
+  afk:
+    description: sets the player afk or unsets the player afk.
+
