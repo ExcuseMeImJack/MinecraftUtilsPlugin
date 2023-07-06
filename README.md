@@ -6,7 +6,7 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Getting started (Using the Plugin)
-1. Download the 'MinecraftUtilities.jar' file from the repo above or from here: https://drive.google.com/file/d/1HfFtGf-XXoolNxwpGPofzirKLKmwp0la/view?usp=drive_link
+1. Download the 'MinecraftUtilities.zip' file from the repo above (in the resources folder '/src/resources') or from here: https://drive.google.com/file/d/1HfFtGf-XXoolNxwpGPofzirKLKmwp0la/view?usp=drive_link
 2. Make sure you have a spigot 1.15.2 server.
 	(If you don't then you can download it here: https://getbukkit.org/get/hJhavPDjhYFfqjyPAibsKAJecPpl7Z2V )
 3. Once the server is set up and run at least once, place the <pluginName>.jar in the plugins folder of your server directory.
